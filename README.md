@@ -11,6 +11,14 @@
 </div>
 
 
+
+
+
+
+<div align="center">
+<img align="center" alt="Cyn's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=cynthialiang00&show_icons=true&hide_border=true" />
+</div>
+
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
@@ -27,9 +35,3 @@
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-
-
-
-<div align="center">
-<img align="center" alt="Cyn's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=cynthialiang00&show_icons=true&hide_border=true" />
-</div>
