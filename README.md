@@ -1,10 +1,14 @@
-# Cynthia Liang
+<h1 align="center"> Cynthia Liang</h1>
+
+<div align="center" id="working-on">
 
 🌸 Currently working on: [FiTube](https://github.com/cynthialiang00/FiTube)
 
 📔 Studying: Data Structures & Algorithms, Software Architecture
 
 🗓️ Looking to be hired, open for scheduling interviews
+  
+</div>
 
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -26,10 +30,9 @@
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 
 
-
-### Connect with me on LinkedIn
-[<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>](https://www.linkedin.com/in/cynthia-liang-1ab860243/)
+[<img align="center" alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>](https://www.linkedin.com/in/cynthia-liang-1ab860243/)
 
 
-### Github Stats:
-<img align="left" alt="Cyn's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=cynthialiang00&show_icons=true&hide_border=true" />
+<div align="center">
+<img align="center" alt="Cyn's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=cynthialiang00&show_icons=true&hide_border=true" />
+</div>
