@@ -29,8 +29,6 @@
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 
 
-[<img align="center" alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>](https://www.linkedin.com/in/cynthia-liang-1ab860243/)
-
 
 <div align="center">
 <img align="center" alt="Cyn's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=cynthialiang00&show_icons=true&hide_border=true" />
