@@ -31,11 +31,6 @@
 
 
 
-
-<div align="center">
-<img align="center" alt="Cyn's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=cynthialiang00&show_icons=true&hide_border=true" />
-</div>
-
 <br />
 
 
